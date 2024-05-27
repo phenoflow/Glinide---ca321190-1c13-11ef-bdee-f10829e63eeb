@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/glinide-120mg---primary.py
+inputModule3:
+  class: File
+  path: python/glinide-tablet---primary.py
+inputModule4:
+  class: File
+  path: python/glinide-prandin---primary.py
+inputModule5:
+  class: File
+  path: python/glinide-500microgram---primary.py
+inputModule6:
+  class: File
+  path: python/glinide-starlix---primary.py
+inputModule7:
+  class: File
+  path: python/glinide-novonorm---primary.py
+inputModule8:
+  class: File
+  path: python/glinide-180mg---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
